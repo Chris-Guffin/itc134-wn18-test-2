@@ -3,3 +3,5 @@ This is the first version of class.txt
 Now we add things to the file
 Add some more things
 branching is cool
+
+Here i added a line from the master branch
